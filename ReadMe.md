@@ -1,4 +1,4 @@
-# PROG - Cours de programmation année 2026 - 2027 -> V2.10
+# PROG - Cours de programmation année 2026 - 2027 -> V2.11
 
 ## Infos Pratique pour vos dépôts Git 
 
@@ -32,12 +32,24 @@
 
 3. sur votre machine, il faut installer le client github en ligne de commande (cli)
 	1. -> ouvrir un power shell 
-	2. -> taper la commande suivante : 
+	2. -> taper la commande suivante (:warning -> il faut avoir les droits d'admin de la machine) : 
 
-	`winget install --id GitHub.cli --source winget`  :warning, il faut avoir les droits d'admin de la machine
+	`winget install --id GitHub.cli --source winget`  
+
+	3. -> fermer la fenête du powershell pour que l'installation soit prise en compte
+
+pour plus d'info voir le dépôt github sur les [commandes cli - github](https://github.com/cli/cli/blob/trunk/docs/install_windows.md) 
+
+4. lier le token à la machine
 
 
- 
+	
+
+
+
+
+
+
 	
 ### Créez et gérez votre **propre dépôt** (local (votre machine) -> serveur (ex: serveur github)
 	
